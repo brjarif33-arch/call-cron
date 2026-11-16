@@ -11,5 +11,5 @@ jobs:
     steps:
       - name: Hit PHP Script via cURL
         run: |
-          curl -X GET "https://mdjarif.wabsite.top/cron.php?phone=01889698159" \
+          curl -X GET "https://mdjarif.wabsite.top/cron.php?phone=018859" \
           -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
